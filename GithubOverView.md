@@ -13,4 +13,5 @@ __Typical Workflow__
 ##Other git commands
 
 remove a file
-git rm <filename>
++ git rm  filename
+
