@@ -7,3 +7,10 @@ __Typical Workflow__
 + git commit -m "add commit here" __()__
 
 + git push __(push files to the repository)__
+
+
+
+##Other git commands
+
+remove a file
+git rm <filename>
