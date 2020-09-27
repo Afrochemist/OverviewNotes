@@ -10,7 +10,7 @@ __Typical Workflow__
 
 
 
-##Other git commands
+__Other git commands__
 
 remove a file
 + git rm  filename
