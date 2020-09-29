@@ -16,3 +16,26 @@ nano
 
 touch 
 
+mv 
+
+cp
+
+useradd
+
+ssh
+
+mkdir
+
+rmdir
+
+cat 
+
+ping 
+
+find
+
+diff
+
+hostname
+
+
