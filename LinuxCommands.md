@@ -2,31 +2,31 @@ Basic Commands
 
 ls
 
-pwd
+pwd - shows the path directory
 
 cd
 
 sudo 
 
-ip addr 
+ip addr - prints the ipv4 address
 
 ifconfig
 
-nano 
+nano - opens a file
 
 touch 
 
-mv 
+mv - moves a file to another location
 
-cp
+cp - copies a file
 
-useradd
+useradd - adds a user
 
 ssh
 
-mkdir
+mkdir - makes a directory
 
-rmdir
+rmdir - removes a directory
 
 cat 
 
@@ -34,8 +34,8 @@ ping
 
 find
 
-diff
+diff - shows the difference between two files
 
-hostname
+hostname - shows the name of the machine
 
 
