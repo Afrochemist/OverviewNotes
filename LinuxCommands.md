@@ -1,12 +1,8 @@
 Basic Commands
 
-ls
-
 pwd - shows the path directory
 
-cd
-
-sudo 
+sudo - permits(add more) 
 
 ip addr - prints the ipv4 address
 
@@ -14,7 +10,7 @@ ifconfig
 
 nano - opens a file
 
-touch 
+touch - creates a files
 
 mv - moves a file to another location
 
@@ -28,14 +24,24 @@ mkdir - makes a directory
 
 rmdir - removes a directory
 
-cat 
+cat - prints content in a file
 
-ping 
+ping - 
 
 find
+
+locate 
 
 diff - shows the difference between two files
 
 hostname - shows the name of the machine
 
+ls - list files in a directory
 
+	-a list all files including private files
+
+cd - change directory
+
+cd .. - move up in parent file
+
+cd / - move to rott directory
