@@ -1,9 +1,7 @@
 #this is a cheat sheet for vim commands
 
-Command Mode
+:wq
 
-Replace Mode
+:q:
 
-Visual Mode
-
-Normal Mode
+:q
