@@ -1,11 +1,15 @@
 #this is a cheat sheet for vim commands
 
 #command mode
+:w write and save the file, but dont exit
+
 :wq write and quit
 
 :q:
 
 :q quit
 
+:q! quit and throw away the changes
 
-#insert mode 
+#insert mode
+dd
