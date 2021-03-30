@@ -22,4 +22,6 @@ i start insert mode at cursor
 
 I insert at the beginning of the line
 
+o Open up a new line following the current line and add text there
 
+O Open up a new line in front of the current line and add text there 
