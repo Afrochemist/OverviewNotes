@@ -12,4 +12,14 @@
 :q! quit and throw away the changes
 
 #insert mode
-dd
+dd delete the current line
+
+a append after the cursor
+
+A Append at the end of the line
+
+i start insert mode at cursor
+
+I insert at the beginning of the line
+
+
