@@ -2,11 +2,11 @@ Basic Commands
 
 pwd - shows the path directory
 
-sudo - permits(add more) 
+sudo - permits administrative privileges to a particular user 
 
 ip addr - prints the ipv4 address
 
-ifconfig
+ifconfig - shows networking information
 
 nano - opens a file
 
@@ -18,15 +18,25 @@ cp - copies a file
 
 useradd - adds a user
 
-ssh
+usermod - modifies rights to a user
+
+groupadd - adds user to a group
+
+groupmod
+
+chown - change ownership of a file/directory
+
+ssh - remotes into a different machine
 
 mkdir - makes a directory
+
+rm - removes a files
 
 rmdir - removes a directory
 
 cat - prints content in a file
 
-ping - 
+ping - initiate communication between two machines
 
 find
 
@@ -43,6 +53,7 @@ uname - ...
 ls - list files in a directory
 
 	-a list all files including private files
+	-l list ugo rights to a file/directory
 
 cd - change directory
 
