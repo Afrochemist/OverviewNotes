@@ -10,3 +10,15 @@ intitle:
 filetype:
 
 intext:
+
+insubject:
+
+numrange:
+
+allintitle:
+
+author:
+
+group:
+
+daterange:
