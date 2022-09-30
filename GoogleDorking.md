@@ -22,3 +22,13 @@ author:
 group:
 
 daterange:
+
+allinurl:
+
+ext:
+
+inposttitle:
+
+inanchor:
+
+@:
