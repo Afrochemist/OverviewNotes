@@ -38,4 +38,18 @@ nmap -sX scanme.org
 *Ping sweep*
 nmap -sn 192.168.0.1-254
 or 
-nmap -sn192.168.1.0/24
+nmap -sn 192.168.1.0/24
+
+*Maimon Scan(need to add an explanation)*
+nmap -sM scanme.org
+
+*ACK scan*
+nmap -sA scanme.org
+
+*Window Scan(need to add an explanation)*
+nmap -sW scanme.org
+
+*Fast scan(scans the most common ports)*
+nmap -F scanme.org
+
+
