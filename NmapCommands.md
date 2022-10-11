@@ -33,3 +33,9 @@ nmap -sF scanme.org
 
 *TCP Xmas scan(need to explain what a Xmas scan is )*
 nmap -sX scanme.org
+
+
+*Ping sweep*
+nmap -sn 192.168.0.1-254
+or 
+nmap -sn192.168.1.0/24
