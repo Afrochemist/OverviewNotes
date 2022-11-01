@@ -52,4 +52,19 @@ nmap -sW scanme.org
 *Fast scan(scans the most common ports)*
 nmap -F scanme.org
 
+*Verbose*
+nmap -v scanme.org
 
+*Nmap Basic Port Scans - States*
+
+Open
+
+Closed
+
+Filtered 
+
+Unfiltered
+
+Open | FIltered
+
+Closed | Filtered
