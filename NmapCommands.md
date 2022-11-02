@@ -57,14 +57,14 @@ nmap -v scanme.org
 
 *Nmap Basic Port Scans - States*
 
-Open
+Open - A service is listening
 
-Closed
+Closed - no service listening
 
-Filtered 
+Filtered - cannot be determined usually due to a firewall
 
-Unfiltered
+Unfiltered - port is accessible but cannot be determined if its open or closed
 
-Open | FIltered
+Open | Filtered - nmap cannot determine if port is open or not 
 
-Closed | Filtered
+Closed | Filtered - cannot decide if port is open or closed
